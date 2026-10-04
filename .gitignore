@@ -212,7 +212,7 @@ pycache
 *.pyc
 *.pyo
 *.pyd
-Virtual environment folders (env/, venv/, .venv)
+.env
+.venv
 README.md
 .dockerignore
-Dockerfile
