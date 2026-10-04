@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.git
+.github
+pycache
+*.pyc
+*.pyo
+*.pyd
+Virtual environment folders (env/, venv/, .venv)
+README.md
+.dockerignore
+Dockerfile
